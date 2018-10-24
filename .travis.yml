@@ -1,3 +1,6 @@
+env:
+  global:
+    - CC_TEST_REPORTER_ID=2ed2fcb7b1be5f7e90a9cb6d760634c06266944096fb815a1e8126f95092b636
 language: java
 sudo: false
 cache:
