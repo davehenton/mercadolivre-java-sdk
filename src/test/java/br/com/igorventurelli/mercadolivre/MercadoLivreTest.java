@@ -2,12 +2,12 @@ package br.com.igorventurelli.mercadolivre;
 
 import org.junit.Test;
 
-public class MercadoLivreTest {
+// public class MercadoLivreTest {
 
-      @Test
-      public void shouldWorkd() {
-          System.out.println("It works!");
-      }
+//       @Test
+//       public void shouldWorkd() {
+//           System.out.println("It works!");
+//       }
 
 //    @Test
 //    public void shouldWorks() {
